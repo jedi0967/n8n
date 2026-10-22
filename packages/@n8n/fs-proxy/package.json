@@ -36,7 +36,7 @@
     "@anthropic-ai/sandbox-runtime": "^0.0.42",
     "@inquirer/prompts": "^8.3.2",
     "@jitsi/robotjs": "^0.6.21",
-    "@modelcontextprotocol/sdk": "1.26.0",
+    "@modelcontextprotocol/sdk": "1.32.0",
     "@n8n/mcp-browser": "workspace:*",
     "@vscode/ripgrep": "^1.17.1",
     "eventsource": "^3.0.6",
